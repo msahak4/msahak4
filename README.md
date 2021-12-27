@@ -1,7 +1,1 @@
-**Hey! Nice to see you.**
-
-Welcome to my page!
-I'm Malyar, living in Washington DC, US. 
-
-Things I code with
-**React, Webpack, Docker, github, actions, Google Cloud, Platform, TypeScript, Insomnia** 
+👋 Hello! I've been buliding things since I was a kid. I love hardware tweaking and prime numbers - they are just so intriguing. Got my first Raspberry Pi in high school, since then my collection is increasing by every fall. In October 2019, I started a programming club in my college, @hackclubnmit with the support of @hackclub. You should definitely check it out. I've always been fascinated with programming, trying to learn as much as possible considering myself ♠️ jack of all trades. I try to stick by this one-liner - Implementing Science Fiction. Besides programming I enjoy 🏊 swimming, 🎮 gaming and 🏸 professional badminton
